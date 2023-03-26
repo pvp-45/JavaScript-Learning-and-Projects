@@ -18,7 +18,8 @@ This repo contains all the files that I used while learning JavaScript and some 
 15. JSON - JavaScript Object Notation
 16. JavaScript Versions
 
-# Projects 
-## Project1 
+## Project 1
+This was a digital watch that I made with the help of JavaScript. I used the concepts that I learned provided in the notes directory and then used them to create a small project. The concepts that were used in this project were mainly setTimeInterval(), and other functions like getTime(), getHours(), getMinutes(), getSeconds(), and more. To display the date, I made the use of toLocalDateString() function. I also used DOM Manipulation by using document.getElementById(..).innerHTML = etc.
+It was a good way to revise my concepts.
 
 
